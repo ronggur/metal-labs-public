@@ -5,7 +5,6 @@ slug: ansible-collection-equinix
 categories: [Plugins]
 type: [IaC]
 version:
-
 - version: 0.1.0
   date: 2023-03-30
   changelog: <https://github.com/equinix-labs/product/releases/tag/v0.1.0>

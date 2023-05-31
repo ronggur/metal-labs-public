@@ -3,7 +3,7 @@ title: fabric-java
 excerpt: Experimental Fabric SDK for Java generated from OpenAPI Spec
 slug: fabric-java
 categories: [API]
-type: SDKs
+type: [SDKs]
 image: images/Experimental-Fabric-SDK-for-Java-generated-from-OpenAPI-Spec.jpg
 social_image: images/share/Experimental-Fabric-SDK-for-Java-generated-from-OpenAPI-Spec_share.jpg
 ---

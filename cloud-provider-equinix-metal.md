@@ -7,11 +7,9 @@ type: [Kubernetes]
 image: 
 social_image: 
 version:
-
 - version: 3.6.1
   date: 2023-04-19
   changelog: <https://github.com/equinix/cloud-provider-equinix-metal/releases/tag/v3.6.1>
-
 ---
 
 ## What is it?

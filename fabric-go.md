@@ -3,14 +3,13 @@ title: fabric-go
 excerpt: Fabric Go Client that enables Equinix Customer consume Fabric APIs using Equinix Terraform Provider
 slug: fabric-go
 categories: [API]
-type: SDKs
+type: [SDKs]
 image: images/Fabric-Go-Client-that-enables-Equinix-Customer-consume-Fabric-APIs-using-Equinix-Terraform-Provider.jpg
 social_image: images/share/Fabric-Go-Client-that-enables-Equinix-Customer-consume-Fabric-APIs-using-Equinix-Terraform-Provider_share.jpg
 version:
 - version: 0.1.0
   date: 2023-03-30
   changelog: <https://github.com/equinix-labs/intro-to-metal-workshop/releases/tag/v0.1.0>
-
 ---
 
 Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas sed diam eget risus varius blandit sit amet non magna.
