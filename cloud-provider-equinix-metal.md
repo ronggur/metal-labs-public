@@ -12,6 +12,8 @@ version:
   changelog: <https://github.com/equinix/cloud-provider-equinix-metal/releases/tag/v3.6.1>
 ---
 
+Page has been updated @ 1 Jun 2023
+
 ## What is it?
 
 Sed posuere consectetur est at lobortis. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
