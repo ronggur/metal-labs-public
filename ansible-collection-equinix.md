@@ -11,7 +11,7 @@ version:
 ---
 ![Ansible Collection for Equinix](images/Ansible-content-to-help-automate-the-management-of-Equinix-resources.jpg)
 
-Page updated 2:30 PM, Jun 1, 2023.
+Page updated 9 PM, Jun 1, 2023.
 
 ## What is it?
 
